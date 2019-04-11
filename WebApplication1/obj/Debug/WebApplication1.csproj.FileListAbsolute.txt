@@ -1,0 +1,10 @@
+X:\mono\WebApplicationTest\WebApplication1\bin\WebApplication1.dll.config
+X:\mono\WebApplicationTest\WebApplication1\bin\WebApplication1.dll
+X:\mono\WebApplicationTest\WebApplication1\bin\WebApplication1.pdb
+X:\mono\WebApplicationTest\WebApplication1\bin\WebApplicationControls.dll
+X:\mono\WebApplicationTest\WebApplication1\bin\WebApplicationControls.pdb
+X:\mono\WebApplicationTest\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+X:\mono\WebApplicationTest\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+X:\mono\WebApplicationTest\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+X:\mono\WebApplicationTest\WebApplication1\obj\Debug\WebApplication1.dll
+X:\mono\WebApplicationTest\WebApplication1\obj\Debug\WebApplication1.pdb

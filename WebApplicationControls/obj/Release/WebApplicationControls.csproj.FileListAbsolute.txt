@@ -1,0 +1,5 @@
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplicationControls/bin/WebApplicationControls.dll
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplicationControls/bin/WebApplicationControls.pdb
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplicationControls/obj/Release/WebApplicationControls.csproj.CoreCompileInputs.cache
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplicationControls/obj/Release/WebApplicationControls.dll
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplicationControls/obj/Release/WebApplicationControls.pdb

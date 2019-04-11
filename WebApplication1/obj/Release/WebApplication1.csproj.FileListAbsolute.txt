@@ -1,0 +1,9 @@
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/bin/WebApplication1.dll
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/bin/WebApplication1.pdb
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/bin/WebApplicationControls.dll
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/bin/WebApplicationControls.pdb
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/obj/Release/WebApplication1.csprojAssemblyReference.cache
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/obj/Release/WebApplication1.csproj.CoreCompileInputs.cache
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/obj/Release/WebApplication1.csproj.CopyComplete
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/obj/Release/WebApplication1.dll
+/media/user1/80F28DA7F28DA1D0/Mono/WebApplicationTest/WebApplication1/obj/Release/WebApplication1.pdb

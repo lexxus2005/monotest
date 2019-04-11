@@ -1,0 +1,5 @@
+X:\mono\WebApplicationTest\WebApplicationControls\bin\WebApplicationControls.dll
+X:\mono\WebApplicationTest\WebApplicationControls\bin\WebApplicationControls.pdb
+X:\mono\WebApplicationTest\WebApplicationControls\obj\Debug\WebApplicationControls.csproj.CoreCompileInputs.cache
+X:\mono\WebApplicationTest\WebApplicationControls\obj\Debug\WebApplicationControls.dll
+X:\mono\WebApplicationTest\WebApplicationControls\obj\Debug\WebApplicationControls.pdb
